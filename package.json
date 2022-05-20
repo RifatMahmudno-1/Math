@@ -1,0 +1,19 @@
+{
+	"name": "accurate-math",
+	"version": "1.0.0",
+	"description": "Do 100% accurate Math",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"keywords": [
+		"Perfect",
+		"Math",
+		"Math",
+		"Accurate",
+		"Math"
+	],
+	"author": "Rifat Mahmud",
+	"license": "ISC"
+}
