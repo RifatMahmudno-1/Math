@@ -1,6 +1,6 @@
 const { addSub } = require('./addSub.js')
 const { multiply } = require('./multiply.js')
-const { divide } = require('./devide.js')
+const { divide } = require('./divide.js')
 
 module.exports = {
 	addSub,
